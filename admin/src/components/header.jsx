@@ -12,7 +12,7 @@ import {
 	DropdownItem
 } from 'reactstrap'
 
-import logolighttext from '../assets/images/logo-cangkoel.png'
+import logolighttext from '../assets/images/logo-fix.png'
 import profilephoto from '../assets/images/users/1.jpg'
 
 const Header = () => {

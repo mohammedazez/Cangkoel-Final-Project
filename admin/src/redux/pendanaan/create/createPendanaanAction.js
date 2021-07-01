@@ -309,7 +309,7 @@ const uploadFotoProfil = (file) => async (dispatch) => {
 			data: data
 		})
 
-		// console.log(postDataProfil.data.url)
+		console.log(postDataProfil.data.url)
 
 		dispatch(setUrlFotoProfil(postDataProfil.data.url))
 	} catch (error) {
